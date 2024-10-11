@@ -1,0 +1,20 @@
+AlgoritimoAcordar
+
+   INICIO
+
+      1.Abrir o olho
+      2.Se o despertador estiver tocando
+         3.Pegar o celular
+         4.desligar o despertador
+      5.Se não estiver
+      6.Levantar da cama
+      7.Andar até a porta
+      8.Se a porta estiver fechada
+         9. Segure na maçaneta e abra
+      10.Se estiver aberta
+      11.Saia do quarto
+      12.Va ate a cozinha
+      13.Faça algo para comer
+
+   FIM      
+   
